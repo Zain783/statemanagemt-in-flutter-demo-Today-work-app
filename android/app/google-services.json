@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55901835180",
+    "project_id": "today-work-app",
+    "storage_bucket": "today-work-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55901835180:android:1f69e1fe27931528aaf409",
+        "android_client_info": {
+          "package_name": "com.zain985gillani.todayworkfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55901835180-svjmomesqsifh2053etenph8kh5tmbk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWItwP7Y04bXjDEkROv0tQi8fyebQK0cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55901835180-svjmomesqsifh2053etenph8kh5tmbk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
